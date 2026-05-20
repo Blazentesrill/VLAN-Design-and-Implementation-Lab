@@ -58,4 +58,4 @@ Each department maps to one VLAN and one /24 subnet carved from `10.z.0.0/16` (~
 - Relationship between subnets and VLANs (1:1 mapping)
 
 ## Files
-- `\.pkt` — Packet Tracer file with completed VLAN and routing configuration
+- `VLAN Design and Implementation Lab.pkt` — Packet Tracer file with completed VLAN and routing configuration
